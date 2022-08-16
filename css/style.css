@@ -94,6 +94,8 @@ footer {
   color: #fff;
   opacity: 0.6;
   transition: opacity 400ms;
+  margin-top: 25%;
+  padding-bottom: -150px ;
 }
 
 footer:hover {
